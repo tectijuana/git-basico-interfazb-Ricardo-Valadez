@@ -9,7 +9,7 @@ using namespace std;
 *
 */
 
-//@Author   Ricardo Valadez Leal
+//@Author   Ricardo-Valadez
 //@Date     18/3/22
 
 int main (){ 
