@@ -10,7 +10,7 @@ using namespace std;
 *
 */
 
-//@Author   Ricardo Valadez Leal
+//@Author   Ricardo-Valadez
 //@Date     6/3/22
 
 //Realizamos la operacion en el main para concoer la suma de sus cuadrados
