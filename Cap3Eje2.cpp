@@ -13,7 +13,7 @@ using namespace std;
 *
 */
 
-//@Author   Ricardo Valadez Leal
+//@Author   Ricardo-Valadez
 //@Date     17/3/22
 
 //Metodo para encontrar que tipo de angulo es
