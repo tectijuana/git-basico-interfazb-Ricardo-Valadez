@@ -10,7 +10,7 @@ using namespace std;
 * 
 */
 
-//@Author   Ricardo Valadez Leal
+//@Author   Ricardo-Valadez
 //@Date     16/3/22
 
 //Metodo para producir un numero al azar 
