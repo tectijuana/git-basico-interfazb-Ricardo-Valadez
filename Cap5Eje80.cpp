@@ -8,7 +8,7 @@ using namespace std;
 * 75, 93, 41, 98 y 71. El profesor desea calculare el promedio de las notas. Escribir un programa para realizar el cálculo.
 */
 
-//@Author   Ricardo Valadez Leal
+//@Author   Ricardo-Valadez
 //@Date     17/3/22
 
 int main()
