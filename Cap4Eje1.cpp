@@ -8,7 +8,7 @@ using namespace std;
 * 
 */
 
-//@Author   Ricardo Valadez Leal
+//@Author   Ricardo-Valadez
 //@Date     16/3/22
 
 int main()
