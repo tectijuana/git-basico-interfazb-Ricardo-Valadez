@@ -12,7 +12,7 @@ using namespace std;
 *
 */
 
-//@Author   Ricardo Valadez Leal
+//@Author   Ricardo-Valadez
 //@Date     17/3/22
 
 //Metodo para pasar de rad a grados
